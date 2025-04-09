@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Nand-kishore333 (NAND KISHORE) 
+- 👋 Hi, I’m (NAND KISHORE)       @Nand-kishore333
 - 👀 I’m interested in data analytics, business intelligence, and solving real-world problems using data  
 - 🌱 I’ve gained strong foundational knowledge in Excel, SQL, Power Query, Power BI, and Python (Pandas, NumPy, Matplotlib, Seaborn) for data analysis through self-study and projects. 
 - 💞️ I’m looking to contribute to real-world data projects and gain experience in building dashboards and performing analysis.
